@@ -1,2 +1,7 @@
-# JavaScript_Platformer
-Simple Platformer physics with self made assets
+# JavaScript Simple Platformer
+    
+## Built with
+
+- Html
+- css
+- JavaScript
